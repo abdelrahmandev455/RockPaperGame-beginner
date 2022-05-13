@@ -10,7 +10,7 @@ Here you can play with the computer AI that builds with js.
 
 ## Links
 
-['See live']['https://rockpaperscc-beginner.netlify.app']
+['See live']['https://boredcleaner.netlify.app']
 
 ###### Copyright 
 All right reseved by Abdelrahman with the email 
